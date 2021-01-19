@@ -1,2 +1,2 @@
-# 3000-Whys-of-php-go
-PHP 三千问
+# PHP 三千问
+# GO 三千问
